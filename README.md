@@ -14,3 +14,4 @@ The aim is to understand how to request help from AI tools for tasks like writin
 
 
 Result: 
+[exp 6 prompt.docx](https://github.com/user-attachments/files/28452761/exp.6.prompt.docx)
